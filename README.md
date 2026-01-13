@@ -24,15 +24,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FF00&center=true&vCenter=true&width=600&lines=Ethical+Hacking+Learner;Cyber+Security+Explorer;Python+Automation;Termux+Power+User;Linux+Lover" />
 </p>
 
----
-
-## 👨‍💻 About Me
-```bash
-$ whoami
-Honey@Terminal
-
-
-
 <!-- 🔥 HACKER ANIMATED HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=220&section=header&text=HONEY&fontSize=65&fontColor=00ff00&animation=fadeIn" />
