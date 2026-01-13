@@ -1,4 +1,26 @@
+<!-- WELCOME ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+Profile;I+Am+Honey;Cyber+Explorer+%7C+Termux+User;Learning+Ethical+Hacking;Code+%E2%9A%A1+Hack+%E2%9A%A1+Learn" />
+</p>
 
+---
+
+<!-- CYBER LINE -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749593-42d2e9f2-84e6-4f3a-8e1c-5a7a9b1f4d6f.gif" width="600">
+</p>
+
+---
+
+<!-- HACKER QUOTE -->
+<h3 align="center">🛡️ "Code Is My Weapon, Knowledge Is My Power" 🛡️</h3>
+
+---
+
+<!-- PROFILE STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+</p>
 <div align="center">
   <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
