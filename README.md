@@ -30,7 +30,7 @@
 <!-- 💀 HACKER SKULL README 💀 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=HACKER%20MODE&fontSize=55&color=0:00ff00,50:00ffff,100:ff00ff&stroke=00ff00&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=HACKER%20HONEY&fontSize=55&color=0:00ff00,50:00ffff,100:ff00ff&stroke=00ff00&animation=twinkling"/>
 </p>
 
 <p align="center">
