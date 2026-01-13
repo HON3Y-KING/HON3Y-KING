@@ -1,15 +1,20 @@
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+To+My+GitHub+Profile;I+Am+Honey;Cyber+Explorer+%7C+Termux+User;Learning+Ethical+Hacking;Code+%E2%9A%A1+Hack+%E2%9A%A1+Learn
-
-<!-- PROFILE STATS -->
+<!-- BIG WELCOME ANIMATION -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://readme-typing-svg.herokuapp.com
+  ?font=Orbitron
+  &size=48
+  &duration=2500
+  &pause=700
+  &center=true
+  &vCenter=true
+  &width=1000
+  &height=100
+  &color=00FF00
+  &multiline=true
+  &lines=🔥+WELCOME+TO+MY+GITHUB+🔥;I+AM+HONEY;CYBER+EXPLORER+%7C+TERMUX+USER;CODE+⚡+HACK+⚡+LEARN" />
 </p>
-<div align="center">
-  <img height="300" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_
 <div align="center">
   <a href="https://youtube.com/@broken_honey?si=hfO-d56tZc0c7ptm" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
