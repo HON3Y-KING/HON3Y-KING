@@ -25,6 +25,36 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=HON3Y-KING.HON3Y-KING&"  />
 </div>
 
+
+
+<!-- 💀 HACKER SKULL README 💀 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=HACKER%20MODE&fontSize=55&color=0:00ff00,50:00ffff,100:ff00ff&stroke=00ff00&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=💀+WELCOME+TO+MY+SYSTEM+💀;I+AM+HONEY;PYTHON+DEVELOPER;TERMUX+POWER+USER;ETHICAL+HACKER;ACCESS+GRANTED+✔️" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+</p>
+
+---
+
+<h1 align="center" style="color:#00ff00; font-size:50px;">☠️ HACKER LOG ☠️</h1>
+
+```diff
++ USER        : HONEY
++ MODE        : HACKER
++ SYSTEM      : LINUX / TERMUX
++ LANGUAGE    : PYTHON
++ STATUS      : ONLINE
+
+
+
+
 ###
 
 <p align="center">NAAM TO SUNA HI HOGA</p>
